@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+# FrontEnd for M.A.V.A. project for Hack@Brown 2024
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
