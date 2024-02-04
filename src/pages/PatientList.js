@@ -1,5 +1,6 @@
 import React, { useState, useEffect } from "react";
 import formData from "../sample.json";
+import "./Dashboard.css";
 
 function DynamicForm() {
   const [formValues, setFormValues] = useState({});
@@ -62,7 +63,8 @@ function DynamicForm() {
 const PatientList = ({ patients }) => {
   return (
     <div>
-      <h2>Patient List</h2>
+      {/* list added dynamically */}
+      <h1>Patient List</h1>
       <ul>
         {patients.map((patient, index) => (
           <li key={index}>
@@ -70,6 +72,8 @@ const PatientList = ({ patients }) => {
           </li>
         ))}
       </ul>
+
+      {/* data table */}
       <DynamicForm />
     </div>
   );
