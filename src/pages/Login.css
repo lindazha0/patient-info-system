@@ -1,0 +1,45 @@
+/* Style.css */
+.loginForm {
+    font-size: large;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    /* Use the full height of the viewport */
+  }
+
+  h1 {
+    font-size: 32px;
+    color: #ffffff;
+  }
+
+  label {
+    font-size: 22px;
+    color: #666666;
+  }
+
+  input {
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ffffff;
+    border-radius: 4px;
+    box-sizing: border-box;
+    opacity: 0.5;
+  }
+
+  button {
+    cursor: pointer;
+    background-color: #B8B792; /* Green */
+    border: none;
+    color: #666666;
+    border: 2px solid #666666;
+    border-radius: 5px;
+    opacity: 0.9;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 18px;
+  }

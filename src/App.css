@@ -36,3 +36,11 @@
     transform: rotate(360deg);
   }
 }
+
+.background-image {
+  background-image: url('./assets/background.svg'); /* Adjust the path as necessary */
+  background-size: cover; /* or 100% 100% to cover the entire element */
+  background-position: center;
+  width: 100%; /* Adjust as necessary */
+  height: 100vh; /* Adjust as necessary */
+}

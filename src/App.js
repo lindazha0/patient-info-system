@@ -1,13 +1,14 @@
-import React, { useState } from 'react';
+import React, { useState } from "react";
+import "./App.css";
 
 // import pages
-import Login from './pages/Login';
-import PatientList from './pages/PatientList';
-import AddPatientForm from './pages/AddPatientForm';
+import Test from "./pages/Test";
+import Login from "./pages/Login";
+import PatientList from "./pages/PatientList";
+import AddPatientForm from "./pages/AddPatientForm";
 
 // for routers
 import { Routes, Route } from "react-router-dom";
-
 
 function App() {
   const [patients, setPatients] = useState([]);
@@ -26,10 +27,13 @@ function App() {
 
   // for login page test
   return (
-    <Routes>
-      <Route path="/" element={<Login />} />
-      <Route path="/home" element={dashboard} />
-    </Routes>
+    <div className="background-image">
+      <Routes>
+        <Route path="/" element={<Login />} />
+        <Route path="/home" element={dashboard} />
+        <Route path="/test" element={<Test />} />
+      </Routes>
+    </div>
   );
 }
 

@@ -1,0 +1,68 @@
+[
+  {
+    "rank": "Captain",
+    "last_name": "Girgis",
+    "first_name": "Kyrollos",
+    "age": 25,
+    "height": 182.9,
+    "weight": 103,
+    "sex": "M",
+    "atrophy_status": "Severe",
+    "dynamometry_test": 47
+  },
+  {
+    "rank": "Captain",
+    "last_name": "Smith",
+    "first_name": "James",
+    "age": 25,
+    "height": 182.36,
+    "weight": 100.81,
+    "sex": "M",
+    "atrophy_status": "Severe",
+    "dynamometry_test": 45
+  },
+  {
+    "rank": "Captain",
+    "last_name": "Smith",
+    "first_name": "Michael",
+    "age": 26,
+    "height": 183.05,
+    "weight": 98.05,
+    "sex": "M",
+    "atrophy_status": "Moderate",
+    "dynamometry_test": 52
+  },
+  {
+    "rank": "Captain",
+    "last_name": "Williams",
+    "first_name": "Kyrollos",
+    "age": 27,
+    "height": 183.17,
+    "weight": 104.90,
+    "sex": "M",
+    "atrophy_status": "Moderate",
+    "dynamometry_test": 49
+  },
+  {
+    "rank": "Captain",
+    "last_name": "Johnson",
+    "first_name": "Michael",
+    "age": 26,
+    "height": 182.32,
+    "weight": 107.45,
+    "sex": "M",
+    "atrophy_status": "Moderate",
+    "dynamometry_test": 42
+  },
+  {
+    "rank": "Captain",
+    "last_name": "Brown",
+    "first_name": "Sarah",
+    "age": 23,
+    "height": 181.71,
+    "weight": 107.17,
+    "sex": "M",
+    "atrophy_status": "Severe",
+    "dynamometry_test": 52
+  }
+]
