@@ -1,4 +1,5 @@
 # FrontEnd for M.A.V.A. project for Hack@Brown 2024
+See our prototype in Figma [here](https://www.figma.com/proto/MI66vmrE5MBr3dKlu67wb1/M.A.V.A.?type=design&node-id=5-15&t=HlVhunxbLCcTHuf0-1&scaling=scale-down&page-id=0%3A1&starting-point-node-id=5%3A15&mode=design)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
